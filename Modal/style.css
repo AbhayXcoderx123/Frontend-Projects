@@ -10,6 +10,7 @@ body{
     background: red;
     height: 100vh;
     position: relative;
+    background: url("project_2.jpg") no-repeat center center/ cover;
 }
 
 #open-btn{
@@ -34,7 +35,7 @@ body{
 }
 
 #modal{
-    background-color: #fff;
+    background-color: RGB(223, 207, 190);
     position: absolute;
     top: 50%;
     left: 50%;
@@ -83,7 +84,7 @@ body{
 
     to{
         top: 50%;
-        opacity: 1;
+        opacity: 10;
     }
     
 }

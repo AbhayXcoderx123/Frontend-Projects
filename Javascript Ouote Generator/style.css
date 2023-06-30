@@ -14,7 +14,7 @@ body{
     align-items: center;
     height: 100vh;
     text-align: center;
-    background: #5372f0;
+    background: url("project_1.jpg") no-repeat center center/ cover;
 }
 
 .container{

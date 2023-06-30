@@ -12,6 +12,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    background: url("project_3.avif") no-repeat center center/ cover;
 }
 
 .accordion{ 
@@ -19,6 +20,7 @@ body{
     background-color: #fff;
     padding: 30px;
     border-radius: 30px;
+    border: 2px solid black;
 }
 
 .accordion .accordion-title{

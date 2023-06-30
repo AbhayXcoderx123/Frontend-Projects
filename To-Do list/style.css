@@ -12,12 +12,13 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    background: url("project_5.jpg") no-repeat center center/ cover;
 }
 
 #add-task-container{
     width: 350px;
     padding: 20px 10px;
-    background: #fff;
+    background: black;
     border-radius: 20px;
     box-shadow: 0 0 3px;
     margin-bottom: 20px;
@@ -57,13 +58,11 @@ input{
 
 .task{
     width: 100%;
-    background-color: #fff;
+    background-color:rgb(236, 109, 252);
     border-radius: 10px;
     box-shadow: 0 0 3px;
-
     padding: 5px;
     margin-bottom: 5px;
-
     display: flex;
     justify-content: center;
 }
