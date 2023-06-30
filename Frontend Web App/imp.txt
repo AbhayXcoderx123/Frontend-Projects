@@ -1,0 +1,5 @@
+Express is a fast and lightweight web framework of nodeJS and it makes it easier to make HTTP end points
+that we can use for our web server. 
+
+MongoDb USERNAME = Cluster0
+MongoDb PASSWORD = nCMWYIKxAbToWvSi
